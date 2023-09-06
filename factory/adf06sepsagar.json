@@ -1,0 +1,9 @@
+{
+	"name": "adf06sepsagar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cb648b2-4167-4472-8b72-1186b655a81f",
+		"tenantId": "dce87315-8ffa-4a01-ab40-0de5a7214b2f"
+	}
+}
