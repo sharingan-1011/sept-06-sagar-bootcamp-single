@@ -165,7 +165,7 @@
 					"type": "LinkedServiceReference"
 				},
 				"folder": {
-					"name": "New folder2"
+					"name": "New folder1"
 				},
 				"annotations": [],
 				"type": "DelimitedText",
@@ -225,7 +225,7 @@
 					"type": "LinkedServiceReference"
 				},
 				"folder": {
-					"name": "New folder1"
+					"name": "New folder2"
 				},
 				"annotations": [],
 				"type": "DelimitedText",
