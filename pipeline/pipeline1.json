@@ -1,0 +1,14 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"variables": {
+			"DataArray": {
+				"type": "Array",
+				"defaultValue": [
+					"['aaa', 'bbb', 'ccc', 'ddd']"
+				]
+			}
+		},
+		"annotations": []
+	}
+}
